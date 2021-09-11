@@ -585,5 +585,6 @@ for i in range (6):
     fence_link()
 house1()
 
+
 hideturtle()
 exitonclick()
